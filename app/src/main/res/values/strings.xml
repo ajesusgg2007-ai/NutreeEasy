@@ -1,20 +1,20 @@
 <resources>
     <string name="app_name">NutriEasy</string>
-    <string name="tituloprincipal">Weekly Planner</string>
-    <string name="subtitulo">Welcome, %1$s</string>
-    <string name="btn_generar_lista">Generate Shopping List</string>
-    <string name="btn_ver_recetas">Explore Recipes</string>
-    <string name="lbl_desayuno">Breakfast</string>
-    <string name="lbl_almuerzo">Lunch</string>
-    <string name="lbl_cena">Dinner</string>
+    <string name="tituloprincipal">Planificador Semanal</string>
+    <string name="subtitulo">Bienvenido, %1$s</string>
+    <string name="btn_generar_lista">Generar lista de la compra</string>
+    <string name="btn_ver_recetas">Explorar recetas</string>
+    <string name="lbl_desayuno">Desayuno</string>
+    <string name="lbl_almuerzo">Almuerzo</string>
+    <string name="lbl_cena">Cena</string>
 
     <string-array name="dias_semana">
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
-        <item>Sunday</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
     </string-array>
 </resources>
