@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">NutriEasy</string>
     <string name="tituloprincipal">Planificador Semanal</string>
-    <string name="subtitulo">Bienvenido, %1$s</string>
+    <string name="subtitulo">Bienvenido</string>
     <string name="btn_generar_lista">Generar lista de la compra</string>
     <string name="btn_ver_recetas">Explorar recetas</string>
     <string name="lbl_desayuno">Desayuno</string>
